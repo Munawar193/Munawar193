@@ -10,9 +10,9 @@ Hi, I'm Teuku Munawar!
 <br/>
 
 <p align="left">
-<a href="https://github.com/Munawar193">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Munawar193&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Munawar193&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/teukumunawark">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=teukumunawark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teukumunawark&layout=compact&langs_count=8&theme=algolia"/>
   
 </a>
 <br/>
@@ -76,7 +76,7 @@ Hi, I'm Teuku Munawar!
 </p>
 
 <!--
-**Munawar193/Munawar193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**teukumunawark/teukumunawark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
