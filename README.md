@@ -4,7 +4,7 @@ Hi, I'm Teuku Munawar!
 <br/>
 
 <p align="left">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20and%20Mobile App%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20and%20Mobile-App%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <br/>
