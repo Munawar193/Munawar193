@@ -1,59 +1,45 @@
-<h1 align="left">
-Hi, I'm Teuku Munawar!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
+# 💫 About Me:
 
-<!-- <p align="left">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20and%20Mobile-App%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
-</p> -->
+Hi there! I'm **Teuku Munawar Khalil**, also known as **Munawar** or **Khalil**. I'm a passionate backend developer.
 
-<br/>
+My programming journey initially began with a focus on mobile development, utilizing Flutter and Android. However, as my
+interest in full-stack development grew, I transitioned to the backend world and am currently immersed in Spring Boot
+development.
 
+Presently, I work full-time as a Spring Boot backend developer. I'm always enthusiastic about crafting robust and
+scalable backend systems, continuously learning and expanding my skillset in this domain.
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/teukumunawark/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teukumunawark/)
+
+# 💻 Tech Stack:
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Spring-Boot](https://img.shields.io/badge/Spring-boot.svg?style=for-the-badge&logo=Spring-boot&logoColor=white)
+
+# 📊 GitHub Stats:
 <p align="left">
-<a href="https://github.com/teukumunawark">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=teukumunawark&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teukumunawark&layout=compact&langs_count=8&theme=radical"/>
-  
-</a>
-<br/>
-<br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teukumunawark&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teukumunawark&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=teukumunawark&theme=ayu-mirage&hide_border=true)
 
-## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+## 🏆 GitHub Trophies
 
-<p>
-   <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>   
+![](https://github-profile-trophy.vercel.app/?username=teukumunawark&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
 
-### 🧰 Frameworks and Libraries
+### 🔝 Top Contributed Repo
 
-<p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=teukumunawark&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🗄️ Databases and Cloud Hosting
+---
+[![](https://visitcount.itsvg.in/api?id=teukumunawark&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<p>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-</p>
-
-### 💻 Software and Tools
-
-<p>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-%2320232a.svg?logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+****
